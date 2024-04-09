@@ -1,0 +1,17 @@
+{
+  "name": "stepfunctions-history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "bash run.sh",
+    "clean": "bash clean.sh",
+    "format": "prettier --loglevel warn --write \"**/*.{js}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
